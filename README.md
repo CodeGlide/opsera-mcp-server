@@ -96,7 +96,7 @@ Complete example of `mcp.json` file:
     "opsera-ai-agent": {
       "url": "https://agent.opsera.io/mcp",
       "headers": {
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+        "Authorization": "Bearer ey..."
       }
     }
   }
@@ -139,10 +139,6 @@ Complete example of `mcp.json` file:
 Once successfully configured, you will have access to various Opsera operations through the MCP interface, including:
 
 - Pipeline operations
-- User management
-- Task management
-- Insights and dashboards
-- And more...
 
 ## Support
 
